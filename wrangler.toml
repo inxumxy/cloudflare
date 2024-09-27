@@ -1,6 +1,0 @@
-name = "koko"
-type = "javascript"
-
-account_id = "29930de1a4b4a8a277295ee72a686d48"
-workers_dev = true
-compatibility_date = "2023-10-01"
